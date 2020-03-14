@@ -1,0 +1,81 @@
+html,body {
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: "Times new roman",sans-serif;
+	background-color: #93aa6a;
+}
+header,footer{
+		background-color: #93aa6a;
+		border: 1px solid black;
+		font-family:Sans-serif;
+ }
+ .container{
+ 	width: 990px;
+ 	margin: 0 auto;
+    background-color: white;
+    padding: 5px;
+ }
+ footer{
+ 	padding: 10px;
+ 	border-radius: 5px  ;
+ }
+
+ header nav{
+ 	float: right;
+
+ }
+ header nav li{
+ 	display: inline;
+ 	font-size: 12px;
+ 	padding-right: 10px;
+ }
+ a{
+ 	color: #007FC0;
+ }
+ .bordered{
+ 	border:1px solid #ccc;
+ 	border-radius: 2px;
+ }
+  #main{
+    border: 1px solid #555;
+    border-radius: 5px;
+    color: #202020;
+    margin:10px 0px 10px 0px;
+    padding: 5px; 
+ }
+ #results{
+ 	padding: 2px;
+ 	width: 300px;
+ 	display: inline-block;
+ 	vertical-align: top;
+ 	border: 1px solid #ccc;
+ }
+ .login-form{
+ 	display: inline-block;
+ 	vertical-align: top;
+ 	width: 400px;
+ 	padding: 2px;
+ }
+.login-form label{
+	width: 120px;
+	display: inline-block;
+	padding-bottom: 10px;
+}
+.login-form input[type=text],
+.login-form input[type=password]{
+	width: 150px;
+}
+.login-form input[type=submit],
+.login-form input[type=reset]{
+	background-color: #93aa6a;
+	color: #fff;
+	border-radius: 10px;
+	padding: 3px;
+	margin-top: 10px;
+	width: 75px;
+}
+.login-form input[type=reset]{
+	background-color:grey;
+}
