@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"email",
+				"Email"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"t",
+				"thead\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"y",
+				"your_name"
+			],
+			[
+				"he",
+				"Hello"
+			],
+			[
+				"d",
+				"Downloads"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"pa",
+				"password2"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"s",
+				"select\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 177,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 98,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/web/server.js",
+		"/F/web Development",
+		"/C/Users/huzai/Desktop/text.py",
+		"/F/first.py",
+		"/C/Users/huzai/Desktop/style.css",
+		"/C/Users/huzai/Desktop/index1.html",
+		"/C/Users/huzai/Desktop/form/style.css",
+		"/C/Users/huzai/Downloads/EAD.JS",
+		"/C/Users/huzai/Downloads/EAD.html",
+		"/F/5th semester/ho ja.html",
+		"/C/Users/huzai/Desktop/form/index.html",
+		"/F/5th semester/style.css",
+		"/C/Users/huzai/Desktop/myscript.js",
+		"/C/Users/huzai/Desktop/log.html",
+		"/C/Users/huzai/Desktop/first.html",
+		"/C/Users/huzai/Desktop/exercise.html",
+		"/C/Users/huzai/Desktop/first.js",
+		"/C/Users/huzai/Desktop/index.html",
+		"/C/Users/huzai/Desktop/shahzaman.html",
+		"/C/Users/huzai/Desktop/HCI/(BITF16A524)HCI ASSIGNMENT#2/chalja.html",
+		"/C/Users/huzai/Desktop/rk.html",
+		"/C/Users/huzai/Desktop/rox.html",
+		"/C/Users/huzai/Desktop/style1.css",
+		"/C/Users/huzai/Desktop/page.html",
+		"/C/Users/huzai/Desktop/a.html",
+		"/C/Users/huzai/Desktop/paragraph.html",
+		"/C/Users/huzai/Desktop/sn.html",
+		"/C/Users/huzai/Desktop/java.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
